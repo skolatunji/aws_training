@@ -1,1 +1,0 @@
-This ia a text word file. This file was created to determine if it can be committed to the Master branch.
